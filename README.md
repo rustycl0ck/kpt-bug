@@ -1,7 +1,7 @@
 # authorization-test
 
 ## Description
-sample description
+For reproducing this bug - https://github.com/GoogleContainerTools/kpt/issues/2511
 
 ## Usage
 
